@@ -11,6 +11,6 @@ namespace MatriculaApi.Features.Classes
         public string Codigo { get; set; }
         public string NombreMateria { get; set; }
         public string Tipo { get; set; }
-        public string Area { get; set; }
+        public int Categoria { get; set; }
     }
 }

@@ -18,5 +18,6 @@ namespace MatriculaApi.DataContext
         public DbSet<AulasHorarios> AulasHorarios { get; set; }
         public DbSet<DiasHorario> DiasHorario { get; set; }
         public DbSet<Dias> Dias { get; set; }
+        public DbSet<Horarios> Horarios { get; set; }
     }
 }

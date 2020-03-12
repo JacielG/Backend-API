@@ -66,3 +66,35 @@ C:\Users\jegal\Downloads\MatriculaApi\obj\Debug\netcoreapp2.1\MatriculaApi.Views
 C:\Users\jegal\Downloads\MatriculaApi\obj\Debug\netcoreapp2.1\MatriculaApi.dll
 C:\Users\jegal\Downloads\MatriculaApi\obj\Debug\netcoreapp2.1\MatriculaApi.pdb
 C:\Users\jegal\Downloads\MatriculaApi\obj\Debug\netcoreapp2.1\MatriculaApi.csproj.CopyComplete
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.deps.json
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.runtimeconfig.json
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.runtimeconfig.dev.json
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.dll
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.pdb
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.Views.dll
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\bin\Debug\netcoreapp2.1\MatriculaApi.Views.pdb
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.csprojAssemblyReference.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.csproj.CoreCompileInputs.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.RazorAssemblyInfo.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.RazorAssemblyInfo.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.AssemblyInfoInputs.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.AssemblyInfo.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.TagHelpers.input.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.TagHelpers.output.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.RazorCoreGenerate.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.RazorTargetAssemblyInfo.cs
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.Views.pdb
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.dll
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.pdb
+C:\Users\Jaciel Gutiérrez\Desktop\Proyecto\Backend-API\obj\Debug\netcoreapp2.1\MatriculaApi.csproj.CopyComplete

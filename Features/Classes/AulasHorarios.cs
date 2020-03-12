@@ -9,7 +9,8 @@ namespace MatriculaApi.Features.Classes
     {
         public int Id { get; set; }
         public int CodeHorarios { get; set; }
-        public int NumeroAula { get; set; }
+        public string NumeroAula { get; set; }
+        public string Sede { get; set; }
         public int Disponibilidad { get; set; }
     }
 }
