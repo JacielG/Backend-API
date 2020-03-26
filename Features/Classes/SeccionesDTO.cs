@@ -12,5 +12,6 @@ namespace MatriculaApi.Features.Classes
         public int Anio { get; set; }
         public string Maestro { get; set; }
         public int Capacidad { get; set; }
+        public string Sede { get; set; }
     }
 }

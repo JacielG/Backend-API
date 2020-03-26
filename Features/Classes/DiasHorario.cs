@@ -10,5 +10,6 @@ namespace MatriculaApi.Features.Classes
         public int Id { get; set; }
         public int CodeDias { get; set; }
         public string CodeHorarios { get; set; }
+        public int Inicia { get; set; }
     }
 }

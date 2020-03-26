@@ -15,5 +15,6 @@ namespace MatriculaApi.Features.Classes
         public string Horarios { get; set; }
         public int Anio { get; set; }
         public string Maestro { get; set; }
+        public int Asignada { get; set; }
     }
 }
