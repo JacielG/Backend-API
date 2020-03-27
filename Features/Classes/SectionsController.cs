@@ -29,6 +29,15 @@ namespace MatriculaApi.Features.Classes
             return _context.Secciones.ToList();
         }
 
+        [HttpGet]
+        [Route("not-assigned")]
+        public List<Secciones> GetNotAssigned()
+        {
+            List<Secciones> Seccion = new List<Secciones>();
+            Seccion = _context.Secciones.Where(x => x.Asignada == 0).ToList();
+            return Seccion;
+        }
+
         [HttpPost]
         [Route("Add")]
         public List<Secciones> PostTodoItem([FromBody]List<SeccionesDTO> section)
