@@ -233,6 +233,7 @@ namespace MatriculaApi.Features.Classes
                         }
                         _context.Secciones.AddRange(Seccion);
                         _context.SaveChanges();
+                        Seccion.Clear();
                     }
                 }
             }
