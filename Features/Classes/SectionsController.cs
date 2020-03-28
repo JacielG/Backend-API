@@ -26,7 +26,9 @@ namespace MatriculaApi.Features.Classes
         [HttpGet]
         public List<Secciones> GetAll()
         {
-            return _context.Secciones.ToList();
+            List<Secciones> Seccion = new List<Secciones>();
+            Seccion = _context.Secciones.Where(x => x.Asignada == 1).ToList();
+            return Seccion;
         }
 
         [HttpGet]
