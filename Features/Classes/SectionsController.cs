@@ -12,7 +12,7 @@ namespace MatriculaApi.Features.Classes
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("MyPolicy")]
+    [EnableCors("CorsPolicy")]
     public class SectionsController : ControllerBase
     {
         private Context _context;
@@ -41,7 +41,7 @@ namespace MatriculaApi.Features.Classes
         }
 
         [HttpPost]
-        [Route("Add")]
+        [Route("assign")]
         public List<Secciones> PostTodoItem([FromBody]List<SeccionesDTO> section)
         {
             List<Secciones> Seccion = new List<Secciones>();
@@ -248,17 +248,6 @@ namespace MatriculaApi.Features.Classes
                     }
                 }
             }
-                //horarios = _context.AulasHorarios.Join(_context.Aulas, a => a.Disponibilidad == item.Capacidad);
-                /*IEnumerable<Aulas> query = from a in _context.Aulas
-                            join ah in _context.AulasHorarios on a.NumeroAula equals ah.NumeroAula
-                            where
-                            a.TipoAula == materia.Tipo &&
-                            ah.Disponibilidad == 0 &&
-                            a.Capacidad >= item.Capacidad
-                            orderby a.Capacidad ascending
-                            select a;
-                aula = query.FirstOrDefault();*/
-                
             return Seccion;
         }
 

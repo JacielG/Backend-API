@@ -25,7 +25,7 @@ namespace MatriculaApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            services.AddCors(o => o.AddPolicy("CorsPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
                     .AllowAnyMethod()
@@ -54,8 +54,8 @@ namespace MatriculaApi
                     TermsOfService = "None",
                     Contact = new Swashbuckle.AspNetCore.Swagger.Contact()
                     {
-                        Name = "Alexander Villalvir",
-                        Email = "javc1603@gmail.com",
+                        Name = "",
+                        Email = "",
                         Url = ""
                     }
                 });
@@ -81,7 +81,7 @@ namespace MatriculaApi
             app.UseStaticFiles();
             app.UseCookiePolicy();
             // Enable Cors
-            app.UseCors("MyPolicy");
+            app.UseCors("CorsPolicy");
             app.UseMvc();
             app.UseSwagger();
             app.UseSwaggerUI(c =>
