@@ -1,4 +1,4 @@
-# AssignItApp
+# Backend-API
 
 # Pre-reqs
 - Install [.Net](https://dotnet.microsoft.com/download)
